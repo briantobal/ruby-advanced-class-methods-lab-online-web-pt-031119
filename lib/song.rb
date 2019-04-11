@@ -47,7 +47,7 @@ class Song
   end
 
   self.alphabetical 
-  
+    self.
   end 
 
   def self.all
